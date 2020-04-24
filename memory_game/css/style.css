@@ -1,7 +1,6 @@
 style.css
 
 body {
-	text-align: center;
 	margin: 0;
 }
 h1 {
@@ -51,7 +50,6 @@ a {
 	font-size: 18px;
 	margin: 0 20px;
 	font: #ffffff;
-	text-align: center;
 	border-bottom: 2px solid transparent;
 }
 img {
@@ -88,7 +86,7 @@ color: white;
 	font-size: 0;
 } 
 .name {
-	color: white;
+	color: red;
 	font-weight: 700;
 }
 a:hover {
